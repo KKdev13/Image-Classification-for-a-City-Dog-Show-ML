@@ -48,4 +48,4 @@ Remember that certain breeds of dogs look very similar. The more images of two s
 ## How to Run?
 * Open a terminal window -or Python configured Git Bash in windows- and run one of the .sh scripts by typing sh <script name>.sh 
 * You can also copy, paste, and run the script commands one by one into your terminal/Git Bash window; each command running a differnet CNN architecture.
-* After running, the the results are automatically stored in text files corresponding to the used architecture (e.g.resnet_pet-images.txt)
+* After running, the results are automatically stored in text files corresponding to the used architecture (e.g.resnet_pet-images.txt)
