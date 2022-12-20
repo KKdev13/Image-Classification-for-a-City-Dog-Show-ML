@@ -18,14 +18,14 @@ For this image classification task, you will be using an image classification ap
 
 Remember that certain breeds of dogs look very similar. The more images of two similar-looking dog breeds that the algorithm has learned from, the more likely the algorithm will be able to distinguish between those two breeds.
 
-## Principal Objectives
-1.Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs.
+## Principal Objectives:
+1. Correctly identify which pet images are of dogs (even if the breed is misclassified) and which pet images aren't of dogs.
 
-2.Correctly classify the breed of dog, for the images that are of dogs.
+2. Correctly classify the breed of dog, for the images that are of dogs.
 
-3.Determine which CNN model architecture (ResNet, AlexNet, or VGG), "best" achieve objectives 1 and 2.
+3. Determine which CNN model architecture (ResNet, AlexNet, or VGG), "best" achieve objectives 1 and 2.
 
-4.Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms takes to run.
+4. Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms takes to run.
 
 
 ## Needed Files:
